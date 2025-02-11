@@ -1,5 +1,7 @@
 # imessage-exporter
 
+**This is a fork that adds `attachment guid` to the attachment table**
+
 This crate provides both a library to interact with iMessage data as well as a binary that can perform some useful read-only operations using that data. The aim of this project is to provide the most comprehensive and accurate representation of iMessage data available.
 
 This free and open-source software can:
